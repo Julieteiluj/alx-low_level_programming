@@ -1,1 +1,1 @@
-readme for Task 1 compiler
+readme for Task 2 assembler
