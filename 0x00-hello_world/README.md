@@ -1,1 +1,1 @@
-readme for Task 5 Hello, printf
+readme for Task 6 6-size.c
