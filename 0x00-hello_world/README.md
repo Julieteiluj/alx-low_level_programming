@@ -1,1 +1,1 @@
-readme for Task 6 6-size.c
+readme for Task 7 100-intel
